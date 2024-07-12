@@ -18,6 +18,9 @@ return 0;
 
 ```
 
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 
 
 ![D0g Hack3r](https://as1.ftcdn.net/v2/jpg/05/75/55/72/1000_F_575557267_MXylwzDauMCzXk7GEMFBfyeQyA0tcNAn.jpg)
